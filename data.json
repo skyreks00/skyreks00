@@ -1,0 +1,113 @@
+{
+  "login": "skyreks00",
+  "fetchedAt": "2026-10-10T11:14:37.665Z",
+  "source": "graphql",
+  "repos": [
+    {
+      "name": "ch4to.org",
+      "stars": 0,
+      "forks": 0,
+      "homepage": null,
+      "language": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 135209
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 27060
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 23507
+        },
+        {
+          "name": "Batchfile",
+          "color": "#C1F12E",
+          "size": 1400
+        }
+      ]
+    },
+    {
+      "name": "permis-online-free",
+      "stars": 3,
+      "forks": 1,
+      "homepage": "https://www.permisfree.be",
+      "language": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": [
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "size": 516910
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 379307
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "size": 102728
+        },
+        {
+          "name": "Batchfile",
+          "color": "#C1F12E",
+          "size": 521
+        }
+      ]
+    },
+    {
+      "name": "42-Baniere",
+      "stars": 0,
+      "forks": 0,
+      "homepage": null,
+      "language": null,
+      "languages": []
+    },
+    {
+      "name": "skyreks00",
+      "stars": 0,
+      "forks": 0,
+      "homepage": null,
+      "language": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "size": 37978
+        }
+      ]
+    },
+    {
+      "name": "EggFarm-Releases",
+      "stars": 0,
+      "forks": 0,
+      "homepage": null,
+      "language": null,
+      "languages": []
+    }
+  ],
+  "contributions": {
+    "total": 304,
+    "best": 125,
+    "activeDays": 22
+  },
+  "yearCommits": 295,
+  "createdAt": "2022-11-05T12:02:04Z",
+  "commits": 295,
+  "errors": []
+}
